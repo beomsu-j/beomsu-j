@@ -7,7 +7,7 @@
  <h3>안녕하세요 코린이입니다 잘 부탁드려요 <br>
  관심있는 분야는 Back_End이고 Front_End도 잘 하고 싶어요!</h3>
 </div>
-
+<br>
 <h3>👀 Contact 👀</h3> 
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/Z_____.XOO/">
